@@ -1,0 +1,5 @@
+data:
+  env: config-client-dev
+  user:
+    username: configclientdev
+    password: 123456
